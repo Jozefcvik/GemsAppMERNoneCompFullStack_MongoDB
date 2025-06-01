@@ -1,0 +1,100 @@
+[
+  {
+    _id: ObjectId('67f55f6949d5902bc7c82438'),
+    title: 'Moonstone',
+    origin: 'India',
+    reserved: false,
+    __v: 0
+  },
+  {
+    _id: ObjectId('67f55f6949d5902bc7c82437'),
+    title: 'Tourmaline',
+    origin: 'Tanzania',
+    reserved: true,
+    __v: 0
+  },
+  {
+    _id: ObjectId('67f55f6949d5902bc7c8243b'),
+    title: 'Pyrope',
+    origin: 'Botswana',
+    reserved: false,
+    __v: 0
+  },
+  {
+    _id: ObjectId('67f55f6949d5902bc7c8243c'),
+    title: 'Aquamarine',
+    origin: 'Africa',
+    reserved: true,
+    __v: 0
+  },
+  {
+    _id: ObjectId('67f55f6949d5902bc7c8243d'),
+    title: 'Chalcedony',
+    origin: 'Malawi',
+    reserved: false,
+    __v: 0
+  },
+  {
+    _id: ObjectId('67f55f6949d5902bc7c8243e'),
+    title: 'Citrine',
+    origin: 'Brazil',
+    reserved: false,
+    __v: 0
+  },
+  {
+    _id: ObjectId('67f55f6949d5902bc7c82439'),
+    title: 'Amethyst',
+    origin: 'Namibia',
+    reserved: true,
+    __v: 0
+  },
+  {
+    _id: ObjectId('67f55f6949d5902bc7c8243a'),
+    title: 'Hematite',
+    origin: 'Mexico',
+    reserved: false,
+    __v: 0
+  },
+  {
+    _id: ObjectId('67f55f6949d5902bc7c82441'),
+    title: 'Moonstone',
+    origin: 'Sri Lanka',
+    reserved: false,
+    __v: 0
+  },
+  {
+    _id: ObjectId('67f55f6949d5902bc7c82442'),
+    title: 'Emerald',
+    origin: 'Africa',
+    reserved: true,
+    __v: 0
+  },
+  {
+    _id: ObjectId('67f55f6949d5902bc7c82443'),
+    title: 'Opal',
+    origin: 'Brazil',
+    reserved: false,
+    __v: 0
+  },
+  {
+    _id: ObjectId('67f55f6949d5902bc7c82444'),
+    title: 'Amber',
+    origin: 'Mexico',
+    reserved: true,
+    __v: 0
+  },
+  {
+    _id: ObjectId('67f55f6949d5902bc7c8243f'),
+    title: 'Onyx',
+    origin: 'Germany',
+    reserved: false,
+    __v: 0
+  },
+  {
+    _id: ObjectId('67f55f6949d5902bc7c82440'),
+    title: 'Aquamarine',
+    origin: 'India',
+    reserved: false,
+    __v: 0
+  }
+]
